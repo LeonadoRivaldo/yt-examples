@@ -1,0 +1,24 @@
+{
+  "name": "yt-exemples",
+  "version": "0.0.0",
+  "description": "this is just a repo for the examples of my yt Channel @ahoradocodigo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LeonadoRivaldo/yt-examples.git"
+  },
+  "keywords": [
+    "youtube",
+    "javascript",
+    "js",
+    "css",
+    "html",
+    "webdev",
+    "desenvolvimento"
+  ],
+  "author": "Leonardo rivaldo",
+  "license": "MIT"
+}
